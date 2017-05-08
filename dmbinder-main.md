@@ -26,6 +26,8 @@ Beim ersten Ausführen werden einige Standard-Befehle als eigene Hotkeys definie
 | F1 | Ausrüstungsprofil 1 |
 | F2 | Ausrüstungsprofil 2 |
 | F3 | Ausrüstungsprofil 3 |
+| R | Store ausrauben bzw. den nächsten freien Store anzeigen |
+| STRG+R | Dialog mit den Stores anzeigen |
 | Ä | Letzte Eingabe wiederholen |
 | < | Automatische Systeme (/cd, /af, /asp) beenden |
 | ALT+Pause | Keybinder pausieren |
@@ -99,6 +101,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /sani | - | Ruft einen Sanitäter |
 | /gk | - | Zum Suchen eines bestimmten Gebäudekomplexes |
 | /showgk | - | Zum Anzeigen eines bestimmten Gebäudekomplexes auf der Map mit einem Checkpoint |
+| /showstores | - | Zeigt die freien Stores im Chat an |
 | /checkpoint | - | Zum Setzen eines Checkpoints mit Koordinaten |
 | /corrds | - | Zeigt die aktuellen Koordinaten an |
 | /relog | - | Zum Reloggen (kann bei manchen Spielern zu einem Crash führen) |
@@ -123,4 +126,4 @@ Tester: -<br>
 Layout Gist: cs_ (Chris)<br>
 
 ### Umgesetzte Vorschläge
-*Bisher keine Vorschläge eingereicht*
+- Funktionen des RobBinders in diesen DM-Binder einfügen *von Killua_Bonobo*
