@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/dmbinder/downloads/Banner.png" alt="DM-Binder Banner"/>
 </p>
 
-# DM-Binder by Martin [0.0.2]
+# DM-Binder by Martin [0.0.3]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
