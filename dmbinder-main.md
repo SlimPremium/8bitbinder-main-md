@@ -112,11 +112,8 @@ Folgende Befehle sind im Keybinder eingebaut:
 
 ## Whitelist
 Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:
-```
-Ingame-Name: 
-Fraktion: 
-Level: 
-```
+> Ingame-Name: <br>Fraktion: <br>Level: 
+
 Es besteht eine sehr geringe Chance, dass du nicht auf die Whitelist eingetragen wirst. Wenn dem der Fall sein sollte, weißt du sicherlich, warum.
 
 ## Credits
