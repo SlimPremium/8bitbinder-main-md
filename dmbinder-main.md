@@ -55,7 +55,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /setjob | - | Zum Setzen des aktuellen Jobs (Drogendealer, Waffendealer, Busfahrer, Pilot, Hochseefischer, Anwalt, Detektiv, Trucker, Farmer) |
 | /setline | /setlinie | Zum Setzen der gewünschten Busfahrer-Linie |
 | /wskill | /wdskill | Zum Setzen des Waffendealer-Skills |
-| /dskill | /ddskill | Zum Setzen des Detektiv-Skills |
+| /dskill | - | Zum Setzen des Detektiv-Skills |
 | /drugstatus | - | Zum Ändern des Drogen-Status (Pflanzen bzw. Ernten) bei Bugs |
 | /l1 - /l21 | - | Zum Starten der angegebenen Linie |
 | /pd | /payday | Zeigt das errechnete Geld, welches man am nächsten Payday erhält |
