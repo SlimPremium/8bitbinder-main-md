@@ -61,7 +61,6 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /pd | /payday | Zeigt das errechnete Geld, welches man am nächsten Payday erhält |
 | /resetpd | /resetpayday | Setzt das Geld, welches man am nächsten Payday bekommen würde, zurück auf 0$ |
 | /settax | - | Zum Einstellen des Steuersatzes |
-| /settax | - | Zum Einstellen des Steuersatzes |
 | /cd | - | Zum Starten eines Countdowns |
 | /af | /afind | Zum automatischen Finden eines Spielers |
 | /as | /asp | Zum automatischen Zeigen eines Spielers |
