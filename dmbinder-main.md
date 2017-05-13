@@ -131,3 +131,4 @@ Layout Gist: cs_ (Chris)<br>
 ### Umgesetzte Vorschläge
 - Funktionen des RobBinders in diesen DM-Binder einfügen *von Killua_Bonobo*
 - Gesamtgeld in den Stats anzeigen *von Peda_Furious*
+- `/pd`, `/payday`, `[pdmoney]`, Warnung bei 5 L im Tank, Automatisch Kanister beim Tanken mitkaufen, /time verbessern *von Blade_Furious*
