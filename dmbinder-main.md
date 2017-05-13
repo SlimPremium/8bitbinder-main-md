@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/dmbinder/downloads/Banner.png" alt="DM-Binder Banner"/>
 </p>
 
-# DM-Binder by Martin [0.0.3]
+# DM-Binder by Martin [0.0.4]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -55,12 +55,17 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /setjob | - | Zum Setzen des aktuellen Jobs (Drogendealer, Waffendealer, Busfahrer, Pilot, Hochseefischer, Anwalt, Detektiv, Trucker, Farmer) |
 | /setline | /setlinie | Zum Setzen der gewünschten Busfahrer-Linie |
 | /wskill | /wdskill | Zum Setzen des Waffendealer-Skills |
-| /dskill | /ddskill | Zum Setzen des Drogendealer-Skills |
+| /dskill | /ddskill | Zum Setzen des Detektiv-Skills |
 | /drugstatus | - | Zum Ändern des Drogen-Status (Pflanzen bzw. Ernten) bei Bugs |
 | /l1 - /l21 | - | Zum Starten der angegebenen Linie |
+| /pd | /payday | Zeigt das errechnete Geld, welches man am nächsten Payday erhält |
+| /resetpd | /resetpayday | Setzt das Geld, welches man am nächsten Payday bekommen würde, zurück auf 0$ |
+| /settax | - | Zum Einstellen des Steuersatzes |
+| /settax | - | Zum Einstellen des Steuersatzes |
 | /cd | - | Zum Starten eines Countdowns |
 | /af | /afind | Zum automatischen Finden eines Spielers |
 | /as | /asp | Zum automatischen Zeigen eines Spielers |
+| /cfind | /ffind | Zum Suchen eines Spielers mit Durchsagen in dem angegebenen Chat (z.B. Fraktionschat) |
 | /wo | - | Wo befindet ihr euch und was ist das Problem? |
 | /ver | - | Verstanden und bestätigt! |
 | /needbk | - | Wird Verstärkung weiterhin benötigt? |
@@ -82,6 +87,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /readv | - | Zum Antworten auf die letzte Werbung |
 | /fan | - | Gibt ein Autogramm an den angegebenen Spieler |
 | /pb | /paintball | Kurzbefehl für /paintball, zählt die Spieler im Paintball |
+| /time | - | Rechnet die Krankenhaus- und Knastzeit in Minuten um und zeigt sie im Chat an |
 | /savestats | - | Zum Speichern der Statistiken mit /time |
 | /ja | /jas, /jam | Ja, was kann ich für dich tun? |
 | /kcall | - | Zum Anrufen eines Spielers anhand des Namens |
