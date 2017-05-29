@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://comniemeer.de/projects/dmbinder/downloads/Banner.png" alt="DM-Binder Banner"/>
+  <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# DM-Binder by Martin [0.0.4]
+# 8 Bit Binder by Martin [1.0.0]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -112,8 +112,8 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /relog | - | Zum Reloggen (kann bei manchen Spielern zu einem Crash führen) |
 
 ## Download
-- [Version mit Overlay](https://comniemeer.de/projects/dmbinder/downloads/DM-Binder.zip)
-- [Version ohne Overlay](https://comniemeer.de/projects/dmbinder/downloads/DM-Binder_nov.zip)
+- [Version mit Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit.zip)
+- [Version ohne Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit_nov.zip)
 
 ## Whitelist
 Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:
@@ -125,9 +125,10 @@ Es besteht eine sehr geringe Chance, dass du nicht auf die Whitelist eingetragen
 ### Umsetzung
 Programmierung: Martin<br>
 Tester: -<br>
+Namensvorschlag: Ferdi<br>
 Layout Gist: cs_ (Chris)<br>
 
 ### Umgesetzte Vorschläge
-- Funktionen des RobBinders in diesen DM-Binder einfügen *von Killua_Bonobo*
+- Funktionen des RobBinders in diesen Keybinder einfügen *von Killua_Bonobo*
 - Gesamtgeld in den Stats anzeigen *von Peda_Furious*
 - `/pd`, `/payday`, `[pdmoney]`, Warnung bei 5 L im Tank, Automatisch Kanister beim Tanken mitkaufen, /time verbessern *von Blade_Furious*
