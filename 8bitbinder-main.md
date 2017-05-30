@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.0.0]
+# 8 Bit Binder by Martin [1.0.1]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -132,3 +132,4 @@ Layout Gist: cs_ (Chris)<br>
 - Funktionen des RobBinders in diesen Keybinder einfügen *von Killua_Bonobo*
 - Gesamtgeld in den Stats anzeigen *von Peda_Furious*
 - `/pd`, `/payday`, `[pdmoney]`, Warnung bei 5 L im Tank, Automatisch Kanister beim Tanken mitkaufen, /time verbessern *von Blade_Furious*
+- Store-Robs und Geld zählen, Variablen für Overlay *von Don_Giovanni*
