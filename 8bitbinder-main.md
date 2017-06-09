@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.0.1]
+# 8 Bit Binder by Martin [1.1.0]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -38,6 +38,8 @@ Das komplette Erscheinungsbild kann selbstständig angepasst werden, dazu könne
 Die Platzhalter finden sich wieder oben in der Menüleiste unter "Informationen".
 Möchte man Farben verwenden, kann man die Platzhalter [primcol] und [seccol] für die in den Einstellungen definierten Farben verwenden.
 Außerdem steht [white] für weiß zur Verfügung. Andere, individuelle Farben können mit {Hex-Farbcode} verwendet werden, z.B. {FF4400}.
+
+Außerdem gibt es ein Gegner-Overlay, welches automatisch alle Spieler gegnerischer Fraktionen ausliest und Ingame anzeigt, wer online ist!
 
 ### Befehle
 Folgende Befehle sind im Keybinder eingebaut:
@@ -78,7 +80,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /acook | - | Zum automatischen Kochen der Fische |
 | /fische | - | Zeigt den Wert der geangelten Fische an |
 | /hp | - | Zeigt die HP der gekochten Fische an |
-| /gf | /gfs | Kurzbefehl für /gangfights |
+| /gf | /gfs | Kurzbefehl für /gangfights, zeigt außerdem die vorhandenen Gangfight-Gebiete an |
 | /hdf | /ruhe | Sein Sie bitte still. |
 | /afk | - | Zum AFK melden |
 | /alotto | - | Zum Kaufen eines Lottotickets (wie in den Einstellungen definiert) |
@@ -87,6 +89,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /fan | - | Gibt ein Autogramm an den angegebenen Spieler |
 | /pb | /paintball | Kurzbefehl für /paintball, zählt die Spieler im Paintball |
 | /time | - | Rechnet die Krankenhaus- und Knastzeit in Minuten um und zeigt sie im Chat an |
+| /anwalt | - | Zum Rufen eines Anwalts in die aktuelle Strafanstalt |
 | /savestats | - | Zum Speichern der Statistiken mit /time |
 | /ja | /jas, /jam | Ja, was kann ich für dich tun? |
 | /kcall | - | Zum Anrufen eines Spielers anhand des Namens |
@@ -110,6 +113,12 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /checkpoint | - | Zum Setzen eines Checkpoints mit Koordinaten |
 | /corrds | - | Zeigt die aktuellen Koordinaten an |
 | /relog | - | Zum Reloggen (kann bei manchen Spielern zu einem Crash führen) |
+
+### Job-System
+Der Keybinder beinhaltet ein **vollständiges** Job-System, welches mit nur einer Taste bedient werden kann!
+Der Job muss mit `/setjob` ausgewählt werden, danach muss man nicht mehr viel machen! Standardmäßig ist die Taste `J` zum Ausführen des Jobs eingestellt.
+Für einige Jobs muss man noch weitere Informationen einstellen, damit alles rund läuft. `/setlinie` zum Einstellen der Busfahrer-Linie, `/wdskill` zum Einstellen des Waffendealer-Skills und `/dskill` zum Einstellen des Detektiv-Skills. Alles andere erkennt der Keybinder automatisch!
+Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder gespeichert. Zum Beispiel kann man sie sich dann im Overlay anzeigen lassen!
 
 ## Download
 - [Version mit Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit.zip)
