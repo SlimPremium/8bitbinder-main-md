@@ -109,7 +109,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /cc | /chatclear | Leert den Chat |
 | /sani | - | Ruft einen Sanitäter |
 | /gegner | - | Zeigt alle Gegner an, die online sind |
-| /<fraktion> | - | Zeigt alle Mitglieder der angegebenen Fraktion an |
+| /\<fraktion\> | - | Zeigt alle Mitglieder der angegebenen Fraktion an |
 | /gk | - | Zum Suchen eines bestimmten Gebäudekomplexes |
 | /showgk | - | Zum Anzeigen eines bestimmten Gebäudekomplexes auf der Map mit einem Checkpoint |
 | /showstores | - | Zeigt die freien Stores im Chat an |
