@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.1.2]
+# 8 Bit Binder by Martin [1.1.3]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -102,6 +102,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /fg | - | Kurzbefehl für /festgeld 1250000 |
 | /ap | - | Kurzbefehl für /accept paket |
 | /tanken | - | Zum automatischen Tanken an einer Tankstelle |
+| /tankstellen | /tankstelle | Anzeigen der Tankstellen in einem Dialog sortiert nach Entfernung |
 | /minuten | - | Rechnet Sekunden in Minuten um |
 | /link | - | Speichert den letzten Link im Chat in der Zwischenablage |
 | /savechat | - | Legt ein Backup des aktuellen Chatlogs an |
@@ -144,3 +145,5 @@ Layout Gist: cs_ (Chris)<br>
 - Gesamtgeld in den Stats anzeigen *von Peda_Furious*
 - `/pd`, `/payday`, `[pdmoney]`, Warnung bei 5 L im Tank, Automatisch Kanister beim Tanken mitkaufen, /time verbessern *von Blade_Furious*
 - Store-Robs und Geld zählen, Variablen für Overlay *von Don_Giovanni*
+- Mitglieder der eigenen Fraktion im Gegner-Overlay ausblenden *von Chriz_Corey*
+- Tankstellen in einem Dialog anzeigen *von Davide_Vercetti*
