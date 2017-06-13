@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.1.3]
+# 8 Bit Binder by Martin [1.1.4]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -67,14 +67,22 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /af | /afind | Zum automatischen Finden eines Spielers |
 | /as | /asp | Zum automatischen Zeigen eines Spielers |
 | /cfind | /ffind | Zum Suchen eines Spielers mit Durchsagen in dem angegebenen Chat (z.B. Fraktionschat) |
-| /wo | - | Wo befindet ihr euch und was ist das Problem? |
-| /ver | - | Verstanden und bestätigt! |
-| /needbk | - | Wird Verstärkung weiterhin benötigt? |
-| /go | - | Einsatzleiter erlaubt Zugriff, GOGOGO! |
-| /abholung | - | Erbitte Abholung in [...]! |
-| /kabholung | - | Eine Abholung wird nicht mehr benötigt. |
-| /verfolgung | - | Erbitte Unterstützung bei der Verfolgung von [...]! |
-| /ort | - | Letzter bekannter Aufenthaltsort: [...] |
+| /wo | - | `/f Wo befindet ihr euch und was ist das Problem?` |
+| /cwo | - | `/crew Wo befindet ihr euch und was ist das Problem?` |
+| /ver | - | `/f Verstanden und bestätigt!` |
+| /cver | - | `/crew Verstanden und bestätigt!` |
+| /needbk | - | `/f Wird Verstärkung weiterhin benötigt?` |
+| /cneedbk | - | `/crew Wird Verstärkung weiterhin benötigt?` |
+| /go | - | `/f Einsatzleiter erlaubt Zugriff, GOGOGO!` |
+| /cgo | - | `/crew Einsatzleiter erlaubt Zugriff, GOGOGO!` |
+| /abholung | - | `/f Erbitte Abholung in [...]!` |
+| /cabholung | - | `/crew Erbitte Abholung in [...]!` |
+| /kabholung | - | `/f Eine Abholung wird nicht mehr benötigt.` |
+| /ckabholung | - | `/f /crew Eine Abholung wird nicht mehr benötigt.` |
+| /verf | /verfolgung | `/f Erbitte Unterstützung bei der Verfolgung von [...]!` |
+| /cverf | /cverfolgung | `/crew Erbitte Unterstützung bei der Verfolgung von [...]!` |
+| /ort | - | `/f Letzter bekannter Aufenthaltsort: [...]` |
+| /cort | - | `/crew Letzter bekannter Aufenthaltsort: [...]` |
 | /afish | - | Zum automatischen Fischen |
 | /asell | - | Zum automatischen Verkaufen der Fische |
 | /acook | - | Zum automatischen Kochen der Fische |
@@ -108,6 +116,9 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /savechat | - | Legt ein Backup des aktuellen Chatlogs an |
 | /cc | /chatclear | Leert den Chat |
 | /sani | - | Ruft einen Sanitäter |
+| /addfriend | /addfreund | Zum Hinzufügen eines Freundes |
+| /remfriend | /remfreund, /delfriend, /delfreund | Zum Löschen eines Freundes |
+| /friends | /freunde | Zum Anzeigen der Freunde |
 | /gegner | - | Zeigt alle Gegner an, die online sind |
 | /\<fraktion\> | - | Zeigt alle Mitglieder der angegebenen Fraktion an |
 | /gk | - | Zum Suchen eines bestimmten Gebäudekomplexes |
@@ -115,6 +126,8 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /showstores | - | Zeigt die freien Stores im Chat an |
 | /checkpoint | - | Zum Setzen eines Checkpoints mit Koordinaten |
 | /corrds | - | Zeigt die aktuellen Koordinaten an |
+| /fpslock | - |  Zum Beschränken der FPS-Anzahl |
+| /fpsunlock | - | Zum Aufheben der Beschränkung der FPS-Anzahl |
 | /relog | - | Zum Reloggen (kann bei manchen Spielern zu einem Crash führen) |
 
 ### Job-System
@@ -147,3 +160,4 @@ Layout Gist: cs_ (Chris)<br>
 - Store-Robs und Geld zählen, Variablen für Overlay *von Don_Giovanni*
 - Mitglieder der eigenen Fraktion im Gegner-Overlay ausblenden *von Chriz_Corey*
 - Tankstellen in einem Dialog anzeigen *von Davide_Vercetti*
+- Freunde-System einfügen *von Davide_Vercetti*
