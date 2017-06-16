@@ -142,6 +142,7 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 
 ## Whitelist
 Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:
+**BITTE NUR HIER IM THREAD SCHREIBEN, NICHT PER PN**
 > Ingame-Name: <br>Fraktion: <br>Level:&nbsp;
 
 **BITTE NUR HIER IM THREAD SCHREIBEN, NICHT PER PN**
