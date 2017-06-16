@@ -141,7 +141,7 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 - [Version ohne Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit_nov.zip)
 
 ## Whitelist
-Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:
+Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:<br>
 **BITTE NUR HIER IM THREAD SCHREIBEN, NICHT PER PN**
 > Ingame-Name: <br>Fraktion: <br>Level:&nbsp;
 
