@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.1.4]
+# 8 Bit Binder by Martin [1.2.0]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -83,6 +83,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /cverf | /cverfolgung | `/crew Erbitte Unterstützung bei der Verfolgung von [...]!` |
 | /ort | - | `/f Letzter bekannter Aufenthaltsort: [...]` |
 | /cort | - | `/crew Letzter bekannter Aufenthaltsort: [...]` |
+| /fishtype | /fischtyp, /fishtyp | Zum Ändern des Werts, welcher Fisch weggeworfen werden soll (niedrigste LBS/HP oder niedrigster Geldwert) |
 | /afish | - | Zum automatischen Fischen |
 | /asell | - | Zum automatischen Verkaufen der Fische |
 | /acook | - | Zum automatischen Kochen der Fische |
@@ -119,8 +120,12 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /addfriend | /addfreund | Zum Hinzufügen eines Freundes |
 | /remfriend | /remfreund, /delfriend, /delfreund | Zum Löschen eines Freundes |
 | /friends | /freunde | Zum Anzeigen der Freunde |
+| /friendslabel | /freundelabel | Zum De-/Aktivieren von Freunde-Labeln über den Köpfen |
+| /namechanges | - | Zum De-/Aktivieren des Namechange-Verlaufs von Spielern über deren Köpfen |
+| /whois | - | Zum Anzeigen des Namechange-Verlaufs eines Spielers im Chat |
 | /gegner | - | Zeigt alle Gegner an, die online sind |
 | /\<fraktion\> | - | Zeigt alle Mitglieder der angegebenen Fraktion an |
+| /remgegner | /delgegner, /remenemy, /delenemy | Zum Löschen eines einzelnen Spielers aus der Gegner-Liste |
 | /gk | - | Zum Suchen eines bestimmten Gebäudekomplexes |
 | /showgk | - | Zum Anzeigen eines bestimmten Gebäudekomplexes auf der Map mit einem Checkpoint |
 | /showstores | - | Zeigt die freien Stores im Chat an |
