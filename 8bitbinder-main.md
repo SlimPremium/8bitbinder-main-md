@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.2.1]
+# 8 Bit Binder by Martin [1.3.0]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -52,8 +52,12 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /onsanis | - | Zeigt die Sanitäter, die online sind, im Chat an |
 | /tempo | - | Stellt das Tempo für den Tempomat ein |
 | /ov | /overlay | Aktiviert das Overlay |
-| /ovmove | - | Zum Verschieben des Overlays, nach Aktivierung kann man die Pfeiltasten benutzen |
+| /ovmove | - | Zum Verschieben eines Overlays, nach Aktivierung kann man die Pfeiltasten benutzen |
 | /ovsave | - | Zum Speichern der Overlay-Position nach dem Verschieben |
+| /hptd | /hptext | Zum De-/Aktivieren des HP- und Armour-TextDraws |
+| /fps | /fpstd, /fpstext | Zum De-/Aktivieren des FPS-TextDraws |
+| /tdmove | /textmove | Zum Verschieben eines TextDraws, nach Aktivierung kann man die Pfeiltasten benutzen |
+| /tdsave | /textsave | Zum Speichern der TextDraws-Position nach dem Verschieben |
 | /setjob | - | Zum Setzen des aktuellen Jobs (Drogendealer, Waffendealer, Busfahrer, Pilot, Hochseefischer, Anwalt, Detektiv, Trucker, Farmer) |
 | /setline | /setlinie | Zum Setzen der gewünschten Busfahrer-Linie |
 | /wskill | /wdskill | Zum Setzen des Waffendealer-Skills |
@@ -169,3 +173,4 @@ Layout Gist: cs_ (Chris)<br>
 - Mitglieder der eigenen Fraktion im Gegner-Overlay ausblenden *von Chriz_Corey*
 - Tankstellen in einem Dialog anzeigen *von Davide_Vercetti*
 - Freunde-System einfügen *von Davide_Vercetti*
+- FPS-Anzahl anzeigen lassen *von Davide_Vercetti*
