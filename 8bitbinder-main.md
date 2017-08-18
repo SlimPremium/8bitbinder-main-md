@@ -82,7 +82,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /abholung | - | `/f Erbitte Abholung in [...]!` |
 | /cabholung | - | `/crew Erbitte Abholung in [...]!` |
 | /kabholung | - | `/f Eine Abholung wird nicht mehr benötigt.` |
-| /ckabholung | - | `/f /crew Eine Abholung wird nicht mehr benötigt.` |
+| /ckabholung | - | `/crew Eine Abholung wird nicht mehr benötigt.` |
 | /verf | /verfolgung | `/f Erbitte Unterstützung bei der Verfolgung von [...]!` |
 | /cverf | /cverfolgung | `/crew Erbitte Unterstützung bei der Verfolgung von [...]!` |
 | /ort | - | `/f Letzter bekannter Aufenthaltsort: [...]` |
