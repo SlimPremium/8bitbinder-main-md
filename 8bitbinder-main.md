@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.3.0]
+# 8 Bit Binder by Martin [1.3.1]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -47,6 +47,7 @@ Folgende Befehle sind im Keybinder eingebaut:
 | Befehl | Alias | Beschreibung |
 | ----------- | -------------------- | --- |
 | /kills | /tode, /deaths, /kd | Zeigt die Kills, Tode und die K/D an (Gesamt und Tag) |
+| /fkd | /crewkd | Schreibt die K/D und die Tages-K/D in den ausgewählten Chat |
 | /setkills | /settode, /setdeaths | Liest die Kills und Tode automatisch aus den Statistiken aus |
 | /sanis | - | Zeigt die Sanitäter in einem Dialog an |
 | /onsanis | - | Zeigt die Sanitäter, die online sind, im Chat an |
@@ -127,6 +128,8 @@ Folgende Befehle sind im Keybinder eingebaut:
 | /friendslabel | /freundelabel | Zum De-/Aktivieren von Freunde-Labeln über den Köpfen |
 | /namechanges | - | Zum De-/Aktivieren des Namechange-Verlaufs von Spielern über deren Köpfen |
 | /whois | - | Zum Anzeigen des Namechange-Verlaufs eines Spielers im Chat |
+| /cops | /lspd, /fbi | Zeigt alle Cops an |
+| /oncops | - | Zeigt alle Cops, die online sind, an |
 | /gegner | - | Zeigt alle Gegner an, die online sind |
 | /\<fraktion\> | - | Zeigt alle Mitglieder der angegebenen Fraktion an |
 | /remgegner | /delgegner, /remenemy, /delenemy | Zum Löschen eines einzelnen Spielers aus der Gegner-Liste |
