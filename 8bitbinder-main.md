@@ -2,7 +2,7 @@
   <img src="https://comniemeer.de/projects/8bitbinder/downloads/Banner.png" alt="8 Bit Binder Banner"/>
 </p>
 
-# 8 Bit Binder by Martin [1.3.3]
+# 8 Bit Binder by Martin [1.3.7]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
