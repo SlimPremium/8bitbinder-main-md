@@ -151,7 +151,7 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 ## Download
 - [Version mit Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit.zip)
 - [Version ohne Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit_nov.zip)
-- [Alte Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
+- \[NEU\] [Alte Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
 
 ## Whitelist
 Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:<br>
