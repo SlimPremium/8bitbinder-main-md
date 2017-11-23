@@ -154,11 +154,7 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 - \[NEU\] [Alte Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
 
 ## Whitelist
-Der Binder besitzt eine Whitelist, wenn ihr ihn benutzen wollt, füllt folgendes Formular aus:<br>
-**BITTE NUR HIER IM THREAD SCHREIBEN, NICHT PER PN**
-> Ingame-Name: <br>Fraktion: <br>Level:&nbsp;
-
-**BITTE NUR HIER IM THREAD SCHREIBEN, NICHT PER PN**
+Der Binder besitzt eine Whitelist, um eingetragen zu werden, nutzt [dieses Forumular](https://comniemeer.de/projects/8bitbinder/request). Die Bearbeitung eines Antrags kann bis zu 24 Stunden dauern.
 
 Es besteht eine sehr geringe Chance, dass du nicht auf die Whitelist eingetragen wirst. Wenn dem der Fall sein sollte, weißt du sicherlich, warum.
 
