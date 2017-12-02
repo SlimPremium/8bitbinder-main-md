@@ -149,11 +149,13 @@ Für einige Jobs muss man noch weitere Informationen einstellen, damit alles run
 Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder gespeichert. Zum Beispiel kann man sie sich dann im Overlay anzeigen lassen!
 
 ## Download
+**Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
 - [Version mit Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit.zip)
 - [Version ohne Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit_nov.zip)
 - \[NEU\] [Alte Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
 
 ## Whitelist
+**Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
 Der Binder besitzt eine Whitelist, um eingetragen zu werden, nutzt [dieses Forumular](https://comniemeer.de/projects/8bitbinder/request). Die Bearbeitung eines Antrags kann bis zu 24 Stunden dauern.
 
 Es besteht eine sehr geringe Chance, dass du nicht auf die Whitelist eingetragen wirst. Wenn dem der Fall sein sollte, weißt du sicherlich, warum.
