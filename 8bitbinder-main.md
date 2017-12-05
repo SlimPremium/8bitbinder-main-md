@@ -159,8 +159,6 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 
 Der Keybinder besitzt eine Whitelist, um eingetragen zu werden, nutzt [dieses Forumular](https://comniemeer.de/projects/8bitbinder/request). Die Bearbeitung eines Antrags kann bis zu 24 Stunden dauern.
 
-Es besteht eine sehr geringe Chance, dass du nicht auf die Whitelist eingetragen wirst. Wenn dem der Fall sein sollte, weißt du sicherlich, warum.
-
 ## Credits
 ### Umsetzung
 Programmierung: Martin<br>
