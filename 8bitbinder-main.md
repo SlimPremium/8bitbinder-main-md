@@ -3,9 +3,10 @@
 </p>
 
 ## Source Code
-https://pastebin.com/bvzLWYAx
+- Version 1.3.7: https://pastebin.com/bvzLWYAx
+- Version 1.3.9: https://pastebin.com/QZgVKzdk
 
-# 8 Bit Binder by Martin [1.3.7]
+# 8 Bit Binder by Martin [1.3.9]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
