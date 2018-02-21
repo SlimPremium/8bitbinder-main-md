@@ -154,9 +154,7 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 
 ## Download
 **Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
-- [Version mit Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit.zip)
-- [Version ohne Overlay](https://comniemeer.de/projects/8bitbinder/downloads/8Bit_nov.zip)
-- \[NEU\] [Alte Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
+- [Alle Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
 
 ## Whitelist
 **Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
