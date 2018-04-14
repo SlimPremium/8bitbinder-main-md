@@ -3,10 +3,9 @@
 </p>
 
 ## Source Code
-- Version 1.3.7: https://pastebin.com/bvzLWYAx
-- Version 1.3.9: https://pastebin.com/QZgVKzdk
+- Bitbucket-Repo: https://bitbucket.org/comniemeer/8bitbinder
 
-# 8 Bit Binder by Martin [1.3.9]
+# 8 Bit Binder by Martin [1.4.0]
 ## Funktionen
 ### Einstellungen
 Die Einstellungen sollten recht selbsterklärend sein.
@@ -155,11 +154,12 @@ Außerdem werden alle durch das Jobben entstandenen Statistiken vom Keybinder ge
 ## Download
 **Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
 - [Alle Downloads und Updatelog](https://comniemeer.de/projects/8bitbinder/)
+- Die Downloadlinks funktionieren nur noch bis zum 15.05.2018.
 
 ## Whitelist
 **Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
-
-Der Keybinder besitzt eine Whitelist, um eingetragen zu werden, nutzt [dieses Forumular](https://comniemeer.de/projects/8bitbinder/request). Die Bearbeitung eines Antrags kann bis zu 24 Stunden dauern.
+- Der Keybinder besitzt eine Whitelist, um eingetragen zu werden, nutzt [dieses Forumular](https://comniemeer.de/projects/8bitbinder/request). Die Bearbeitung eines Antrags kann bis zu 24 Stunden dauern.
+- Ab Version 1.4.0 wird kein Whitelist-Eintrag mehr benötigt, um den Keybinder nutzen zu können.
 
 ## Credits
 ### Umsetzung
