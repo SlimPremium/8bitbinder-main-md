@@ -20,32 +20,29 @@ Folgende Befehle sind im Keybinder eingebaut:
 
 | Befehl | Alias | Beschreibung |
 | ----------- | -------------------- | --- |
-| /kills | /tode, /deaths, /kd | Zeigt die Kills, Tode und die K/D an (Gesamt und Tag) |
-| /fkd | /crewkd | Schreibt die K/D und die Tages-K/D in den ausgewählten Chat |
-| /setkills | /settode, /setdeaths | Liest die Kills und Tode automatisch aus den Statistiken aus |
-| + | Letzte Nachricht wiederholen |
-| /alotto | Kauft random eine Lotto Nummer |
-| /rechner | Taschenrechner |
-| /kill | Killauftrag auf gewünschte ID |
-| /relog | macht einen schnell Restart |
-| /arzt | Ruft einen Arzt an |
-| /anwalt | Ruft einen Anwalt an |
-| /setpickspruch | Setzt einen Pickwaffenkillspruch |
-| /setkills | Die Anzahl an gesammt kills wird auf deine beliebige Zahl geändert |
-| /gf | Erobert die Flagge ein |
-| /setdete | Setzt deinen Detektiv Skill auf deine gewünschte Zahl |
-| /af | Detektiv automatisch suche |
-| < | Beendet die suche |
-| /aweste | Kauft im Ammunation eine Weste |
-| /adeagle | Kauft im Ammunation eine Deagle |
-| /adw | Kauft im Ammunation eine Weste + Deagle |
-| /setkekse | Trage hier bitte ein wie viele Kekse ihr im Invetar habt! |
-| Numpad+ | Nimmt Kekse bis eure HP auf min 89 geheilt wurde |
-| Numpad- | Nimmt Spice bis ihr es selber beendet |
-| /ab | Anrufsbeantworter Ein/Aus schalten |
-| /ja | Nimmt einen Anruf mit einer Nachricht an |
-| /nein | Lehnt einen Anruf mit Nachricht ab |
-| /by | Beendet den Anruf |
+| + || Letzte Nachricht wiederholen |
+| /alotto || Kauft random eine Lotto Nummer |
+| /rechner || Taschenrechner |
+| /kill || Killauftrag auf gewünschte ID |
+| /relog || macht einen schnell Restart |
+| /arzt || Ruft einen Arzt an |
+| /anwalt || Ruft einen Anwalt an |
+| /setpickspruch || Setzt einen Pickwaffenkillspruch |
+| /setkills || Die Anzahl an gesammt kills wird auf deine beliebige Zahl geändert |
+| /gf || Erobert die Flagge ein |
+| /setdete || Setzt deinen Detektiv Skill auf deine gewünschte Zahl |
+| /af || Detektiv automatisch suche |
+| < || Beendet die suche |
+| /aweste || Kauft im Ammunation eine Weste |
+| /adeagle || Kauft im Ammunation eine Deagle |
+| /adw || Kauft im Ammunation eine Weste + Deagle |
+| /setkekse || Trage hier bitte ein wie viele Kekse ihr im Invetar habt! |
+| Numpad+ || Nimmt Kekse bis eure HP auf min 89 geheilt wurde |
+| Numpad- || Nimmt Spice bis ihr es selber beendet |
+| /ab || Anrufsbeantworter Ein/Aus schalten |
+| /ja || Nimmt einen Anruf mit einer Nachricht an |
+| /nein || Lehnt einen Anruf mit Nachricht ab |
+| /by || Beendet den Anruf |
 
 ## Download
 **Achtung:** Der Keybinder funktioniert nicht mit dem Anti-Cheat-Client!
